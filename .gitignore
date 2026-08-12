@@ -1,0 +1,14 @@
+# Default JetBrains/WebStorm ignored files
+.idea/
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+# Node/MERN dependencies and build outputs
+node_modules/
+frontend/node_modules/
+.env
+dist/
